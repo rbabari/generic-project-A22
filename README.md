@@ -6,3 +6,5 @@ Bonjour les amis ... Bonjour
   Bonjour les amis ... Bonjour 
   
 Le ciel est bleu ... Les oiseaux chantent  
+
+Le soleil brille ... 
